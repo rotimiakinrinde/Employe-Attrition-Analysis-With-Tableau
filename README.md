@@ -58,5 +58,48 @@ Comparison: A 3.1% increase from the previous year, potentially reflecting gende
 
 **7. Attrition by Age Group**
 
-According to the analysis employees withing the age groups; 25-29(60) and 30-35 (69) experienced the highest attrition rates. with the age group 54-59(11) accounting for the lowest attrition. This indicates growing career mobility and external opportunities.
+According to the analysis employees within the age groups; 25-29(60) and 30-35 (69) experienced the highest attrition rates. with the age group 54-59(11) accounting for the lowest attrition. This indicates growing career mobility and external opportunities.
+
+### Recommendations
+
+**1. Strengthen Career Development Programs**
+
+-  Implement mentorship programs and structured career growth paths, particularly targeting employees aged 25-35. 
+-  Provide professional development opportunities, including certifications and leadership training, to encourage long-term retention.
+
+**2. Improve Job Satisfaction and Employee Engagement**
+
+-  Conduct regular employee feedback surveys to identify dissatisfaction factors. 
+-  Introduce recognition and reward programs to boost morale and motivation.
+-  Foster a culture of open communication where employees feel valued and heard.
+
+**3. Address Travel-Related Burnout**
+
+-  Offer flexible travel policies, such as hybrid work arrangements or reduced travel requirements.
+
+-  Provide incentives, such as travel allowances or additional time off, to mitigate the impact of frequent business travel.
+
+**4. Promote Work-Life Balance Initiatives**
+
+-  Encourage flexible working hours and remote work options to accommodate diverse employee needs.
+
+-  Introduce wellness programs, including mental health support and stress management workshops.
+
+**5. Enhance Gender Inclusivity and Retention**
+
+-  Implement mentorship programs specifically for female employees to support career advancement.
+
+-  Establish policies promoting equal pay, career growth opportunities, and a more inclusive workplace culture.
+
+**6. Implement Targeted Retention Strategies for High-Risk Groups**
+
+-  Create personalized engagement plans for employees with lower tenure to improve early retention rates.
+
+-  Offer competitive compensation packages to attract and retain top talent.
+
+### Conclusion
+
+This analysis highlights the key drivers of employee attrition at TechSolutions, emphasising factors such as job satisfaction, travel frequency, career growth opportunities, and workplace inclusivity. By implementing these data-driven recommendations, TechSolutions can enhance employee satisfaction, reduce turnover costs, and improve overall workforce stability, ultimately fostering a more engaged and productive organisation.
+
+
 
