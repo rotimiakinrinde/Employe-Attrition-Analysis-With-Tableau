@@ -35,7 +35,7 @@ The overall attrition rate was 16.36%, indicating a significant challenge. This 
 
 Departing employees stayed for an average of 5 years before leaving. This suggests a decline in long-term employee retention.
 
-3. Attrition by Education Field
+**3. Attrition by Education Field**
 
 Employees from Life Sciences(89) experienced higher attrition rates than those in Medical department(66) and Marketing department(35). The analysis futher highlights that the employees from the Human Resources(35) account for the lowest rate of attrition. The high attrition rate observed from those in the technical fields, indicates possible career growth concerns.
 
