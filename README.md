@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-TechSolutions, a global technology company specializing in software development and IT consulting, has been facing high employee attrition. This project aims to analyze attrition patterns using data-driven insights to identify key contributing factors and recommend strategies to enhance employee retention and satisfaction.
+TechSolutions, a global technology company specialising in software development and IT consulting, has been facing high employee attrition. This project aims to analyze attrition patterns using data-driven insights to identify key contributing factors and recommend strategies to enhance employee retention and satisfaction.
 
 ### Problem Statement
 
