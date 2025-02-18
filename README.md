@@ -52,9 +52,7 @@ This analysis indicates that employees with job satisfaction ratings below 3 (on
 
 **6. Attrition by Gender**
 
-The male employees exhibited a higher attrition(156) than female employees(87).
-
-Comparison: A 3.1% increase from the previous year, potentially reflecting gender-related workplace challenges.
+The male employees exhibited a higher attrition(156) than female employees(87). This potentially reflecting gender-related workplace challenges.
 
 **7. Attrition by Age Group**
 
