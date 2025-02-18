@@ -25,7 +25,7 @@ The primary objectives of this project are:
 
 ### Insights with Metrics
 
-This analysis presents key performance indicators (KPIs) related to employee attrition at TechSolutions, along with a comparative assessment of different factors influencing turnover.
+This analysis presents key performance indicators (KPIs) related to employee attrition at TechSolutions, along with a comparative assessment of different factors influencing employee attrition.
 
 **1. Attrition Rate**
 
